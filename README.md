@@ -8,6 +8,7 @@ Put IK-Baritone-Bot-PVP jar into your mod's folder.
 Then put the AIThunderHack jar into your mod's folder.
 
 # YOU WILL NEED TO USE THESE CONFIGURATION'S THAT I HAVE UPLOADED.
+CONFIGURATION'S ARE IN ThunderHackRecode
 
 <p align="center">
     <img src="https://i.imgur.com/ZiJ0r7y.png" style="width: 69%">
